@@ -4,7 +4,7 @@
   <groupId>com.satya</groupId>
   <artifactId>satyaproject</artifactId>
   <packaging>war</packaging>
-  <version></version>
+  <version>1.0</version>
   <name>satyaproject</name>
   <url>http://maven.apache.org</url>
   <dependencies>
